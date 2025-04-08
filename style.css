@@ -1,0 +1,19 @@
+body{
+    background-color: darkgreen;
+}
+table{
+    width: 1000px;
+    background-color: palegreen;
+}
+td{
+    border-width: 3px;
+    border-spacing: 3px;
+}
+#palack{
+    vertical-align:text-top;
+    text-align: center;
+    width: 150px;
+}
+h2{
+    color: darkgreen;
+}
